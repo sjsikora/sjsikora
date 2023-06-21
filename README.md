@@ -11,9 +11,9 @@ I use Github mainly to support the development of personal projects. I am still 
 
 ## What am I working on now?
 
-🦠 - **Label Transfer Algorithm**: As part of my internship at the Trapnell Lab, I am working closely with the R package monocle3 to develop a pipeline to transfer labels from a reference to a query dataset accurately. 
+🦠 **Label Transfer Algorithm**: As part of my internship at the Trapnell Lab, I am working closely with the R package monocle3 to develop a pipeline to transfer labels from a reference to a query dataset accurately. 
 
-📱 - **???**: A React app built with Firebase that I am not quite ready to announce.
+📱 **???**: A React app built with Firebase that I am not quite ready to announce.
 
 ## What are some old projects?
 
