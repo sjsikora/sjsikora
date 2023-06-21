@@ -17,8 +17,8 @@ I use Github mainly to support the development of personal projects. I am still 
 
 ## What are some old projects?
 
-📈 - **Dash Data Visualization**
-👩‍🏫 - **UBC Class API**
+- 📈 - **Dash Data Visualization**
+- 👩‍🏫 - **UBC Class API**
 
 
 
