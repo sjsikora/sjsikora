@@ -7,7 +7,7 @@
 - I am super interested in biological questions that can be answered with deep learning!
 
 ## How do I use Github?
-I use Github mainly to support the development of personal projects. I am still learning, so these are ways to get experience by doing.
+I use Github mainly to support the development of personal projects. I am still learning, so these projects are a way for me to get experience by doing.
 
 ## What am I working on now?
 
