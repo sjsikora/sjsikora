@@ -22,6 +22,16 @@ I use Github mainly to support the development of personal projects. I am still 
 - 🎵 **Playlist Board** Turn your top listened-to albums into a photo to share with your friends.
 - 📷 **Photo/Birthday Discord Bot** Can never remember your friends birthdays? Or do you want to find an embarrassing photo of them? This bot will manage the photos and birthdays of the members of your server. NOTE: This project is private due to privacy. Please reach out personally if you would like to view it.
 
+## Languages:
+Proficient:
+- Java
+- Python
+- R
+
+Currently Learning:
+- React
+- Javascript
+
 ## How to reach out:
 You can reach me through my email: sjsikora@student.ubc.ca
 
