@@ -11,16 +11,16 @@ I use Github mainly to support the development of personal projects. I am still 
 
 ## What am I working on now?
 
-🦠 **Label Transfer Algorithm**: As part of my internship at the Trapnell Lab, I am working closely with the R package monocle3 to develop a pipeline to transfer labels from a reference to a query single cell dataset accurately. 
+🦠 **Label Transfer Algorithm**: *R* As part of my internship at the Trapnell Lab, I am working closely with the R package monocle3 to develop a pipeline to transfer labels from a reference to a query single-cell dataset accurately. 
 
-📱 **???**: A React app built with Firebase that I am not quite ready to announce.
+📱 **???**: *React* A React app built with Firebase that I am not quite ready to announce.
 
 ## What are some old projects?
 
-- 📈 **Dash Data Visualization** A website to view and interact with Variational Auto Encoder Double Knockout Data, Olympic Rowing Data, Supreme Court Data, and Genetically Engineered Crop Data.
-- 👩‍🏫 **UBC Class API** Turns UBC Class data into JSON files. (Dropped due to UBC policy)
-- 🎵 **Playlist Board** Turn your top listened-to albums into a photo to share with your friends.
-- 📷 **Photo/Birthday Discord Bot** Can never remember your friends birthdays? Or do you want to find an embarrassing photo of them? This bot will manage the photos and birthdays of the members of your server. NOTE: This project is private due to privacy. Please reach out personally if you would like to view it.
+- 📈 **Dash Data Visualization**: *Python* A website to view and interact with Variational Auto Encoder Double Knockout Data, Olympic Rowing Data, Supreme Court Data, and Genetically Engineered Crop Data.
+- 👩‍🏫 **UBC Class API**: *Python* Turns UBC Class data into JSON files. (Dropped due to UBC policy)
+- 🎵 **Playlist Board**: *Python* Turn your top listened-to albums into a photo to share with your friends.
+- 📷 **Photo/Birthday Discord Bot**: *Javascript* Can never remember your friends birthdays? Or do you want to find an embarrassing photo of them? This bot will manage the photos and birthdays of the members of your server. NOTE: This project is private due to privacy. Please reach out personally if you would like to view it.
 
 ## Open Source Contributions
 
