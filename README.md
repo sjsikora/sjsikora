@@ -32,11 +32,6 @@ Currently Learning:
 - React
 - Javascript
 
-## Open Source Contributions
-
-open-tacos#947
-
-
 ## How to reach out:
 You can reach me through my email: sjsikora@student.ubc.ca
 
