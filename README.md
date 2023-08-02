@@ -5,9 +5,6 @@
 - Currently, I am bouncing between Seattle, Washington 🇺🇸 and Kelowna, British Columbia 🇨🇦.
 - I am super interested in biological questions that can be answered with deep learning!
 
-## How do I use Github?
-I use Github mainly to support the development of personal projects. I am still learning, so these projects are a way for me to get experience by doing.
-
 ## What am I working on now?
 
 🦠 **Label Transfer Algorithm**: *R* As part of my internship at the Trapnell Lab, I am working closely with the R package monocle3 to develop a pipeline to transfer labels from a reference to a query single-cell dataset accurately. 
