@@ -1,7 +1,6 @@
 # Hello, I am Sam Sikora (he/him)!
 
 ## About me
-- I got my start as a coder when I built a computer in middle school (Cliche, I know).
 - I am currently an undergrad in computer science at UBC Okanagan.
 - Currently, I am bouncing between Seattle, Washington 🇺🇸 and Kelowna, British Columbia 🇨🇦.
 - I am super interested in biological questions that can be answered with deep learning!
