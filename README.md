@@ -25,6 +25,7 @@ I use Github mainly to support the development of personal projects. I am still 
 ## Open Source Contributions
 
 - [Open-Beta: Implementing 404 page](https://github.com/OpenBeta/open-tacos/pull/947)
+- [Open-Beta: Fixing Map Implementation](https://github.com/OpenBeta/open-tacos/pull/953)
 
 ## Languages:
 Proficient:
