@@ -2,7 +2,7 @@
 
 ## About me
 - I am currently an undergrad in computer science at UBC Okanagan.
-- Currently, I am bouncing between Seattle, Washington 🇺🇸 and Kelowna, British Columbia 🇨🇦.
+- I am bouncing between Seattle, Washington 🇺🇸 and Kelowna, British Columbia 🇨🇦.
 - I am super interested in biological questions that can be answered with deep learning!
 
 ## What am I working on now?
