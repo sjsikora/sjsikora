@@ -5,7 +5,8 @@ I am...
 - currently an undergrad in computer science at UBC Okanagan.
 - bouncing between Seattle, Washington 🇺🇸 and Kelowna, British Columbia 🇨🇦.
 - super interested in biological questions that can be answered with deep learning!
-
+- a rock climber! Find me at your local crag, being bullied by my sport climbing friends to go leading!
+  
 ## What am I working on now?
 
 🦠 **Label Transfer Algorithm**: *R* As part of my internship at the Trapnell Lab, I am working closely with the R package monocle3 to develop a pipeline to transfer labels from a reference to a query single-cell dataset accurately. 
