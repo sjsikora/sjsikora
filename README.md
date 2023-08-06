@@ -25,14 +25,9 @@ I am...
 - [Open-Beta: Fixing Map Implementation](https://github.com/OpenBeta/open-tacos/pull/953)
 
 ## Languages:
-Proficient:
-- Java
-- Python
-- R
+Proficient: Java, Python, R
 
-Currently Learning:
-- React
-- Javascript
+Working Understanding: React, Javascript
 
 ## How to reach out:
 You can reach me through my email: sjsikora@student.ubc.ca
