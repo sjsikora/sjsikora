@@ -11,7 +11,7 @@ I am...
 
 🦠 **Label Transfer Algorithm**: *R* As part of my internship at the Trapnell Lab, I am working closely with the R package monocle3 to develop a pipeline to transfer labels from a reference to a query single-cell dataset accurately. 
 
-📱 **???**: *React* A React app built with Firebase that I am not quite ready to announce.
+📱 **???**: *React/Typescript* A React app built with Firebase that I am not quite ready to announce.
 
 ## What are some old projects?
 
