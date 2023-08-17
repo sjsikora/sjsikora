@@ -9,12 +9,11 @@ I am...
   
 ## What am I working on now?
 
-🦠 **Label Transfer Algorithm**: *R* As part of my internship at the Trapnell Lab, I am working closely with the R package monocle3 to develop a pipeline to transfer labels from a reference to a query single-cell dataset accurately. 
-
 📱 **???**: *React/Typescript* A React app built with Firebase that I am not quite ready to announce.
 
 ## What are some old projects?
 
+- 🦠 **Label Transfer Algorithm**: *R* As part of my internship at the Trapnell Lab, I developed a pipeline to transfer cell labels from a reference to a query single-cell dataset accurately.
 - 📈 **Dash Data Visualization**: *Python* A website to view and interact with Variational Auto Encoder Double Knockout Data, Olympic Rowing Data, Supreme Court Data, and Genetically Engineered Crop Data.
 - 👩‍🏫 **UBC Class API**: *Python* Turns UBC Class data into JSON files. (Dropped due to UBC policy)
 - 🎵 **Playlist Board**: *Python* Turn your top listened-to albums into a photo to share with your friends.
