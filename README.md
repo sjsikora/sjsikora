@@ -9,7 +9,7 @@ I am...
   
 ## What am I working on now?
 
-📱 **???**: *React/Typescript* A React app built with Firebase that I am not quite ready to announce.
+📱 **Telepole**: *React/Typescript* A full-stack website to track telephone poles in Seattle and Kelowna.
 
 ## What are some old projects?
 
