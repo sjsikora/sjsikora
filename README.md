@@ -21,8 +21,8 @@ I am...
 
 ## Open Source Contributions
 
-- [Open-Beta: Implementing 404 page](https://github.com/OpenBeta/open-tacos/pull/947)
-- [Open-Beta: Fixing Map Implementation](https://github.com/OpenBeta/open-tacos/pull/953)
+- [Open-Beta: Handling 404 page error](https://github.com/OpenBeta/open-tacos/pull/947)
+- [Open-Beta: Reving Map Feature](https://github.com/OpenBeta/open-tacos/pull/953)
 
 ## Languages:
 Proficient: Java, Python, R
