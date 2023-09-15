@@ -22,7 +22,7 @@ I am...
 ## Open Source Contributions
 
 - [Open-Beta: Handling 404 page error](https://github.com/OpenBeta/open-tacos/pull/947)
-- [Open-Beta: Reving Map Feature](https://github.com/OpenBeta/open-tacos/pull/953)
+- [Open-Beta: Reviving Map Feature](https://github.com/OpenBeta/open-tacos/pull/953)
 
 ## Languages:
 Proficient: Java, Python, R
