@@ -4,7 +4,6 @@
 I am...
 - currently an undergrad in computer science at UBC Okanagan.
 - bouncing between Seattle, Washington 🇺🇸 and Kelowna, British Columbia 🇨🇦.
-- super interested in biological questions that can be answered with deep learning!
 - a rock climber! Find me at your local crag, being bullied by my sport climbing friends to go leading!
   
 ## What am I working on now?
