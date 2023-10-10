@@ -5,6 +5,7 @@ I am...
 - currently an undergrad in computer science at UBC Okanagan.
 - bouncing between Seattle, Washington 🇺🇸 and Kelowna, British Columbia 🇨🇦.
 - a rock climber! Find me at your local crag, being bullied by my sport climbing friends to go leading!
+- trying my hardest to learn Vim keybinds. Now, at a point where I can, almost, navigate through my files mouse-free!
   
 ## What am I working on now?
 
