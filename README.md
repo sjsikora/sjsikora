@@ -15,9 +15,10 @@ I am...
 
 ## What are some old projects?
 
+- 🛸 **EarthLingo** *React/Typescript/Microsoft Azure AI* Pick or customize your sentence, and then read it aloud. EarthLingo will give you feedback on your overall pronunciation of the sentence, highlight any mispronounced words, and help you break down your worst pronunciation. Additionally, for every sentence you read, you are scored on individual phonics so you can understand your weak points.
 - 🦠 **Label Transfer Algorithm**: *R* As part of my internship at the Trapnell Lab, I developed a pipeline to transfer cell labels from a reference to a query single-cell dataset accurately.
 - 📈 **Dash Data Visualization**: *Python* A website to view and interact with Variational Auto Encoder Double Knockout Data, Olympic Rowing Data, Supreme Court Data, and Genetically Engineered Crop Data.
-- 👩‍🏫 **UBC Class API**: *Python* Turns UBC Class data into JSON files. (Dropped due to UBC policy)
+- 👩‍🏫 **UBC Class API**: *Python* Turns UBC Class data into JSON files.
 - 🎵 **Playlist Board**: *Python* Turn your top listened-to albums into a photo to share with your friends.
 - 📷 **Photo/Birthday Discord Bot**: *Javascript* Can never remember your friends birthdays? Or do you want to find an embarrassing photo of them? This bot will manage the photos and birthdays of the members of your server. NOTE: This project is private due to it containing sensitive information. Please reach out personally if you would like to view it.
 
