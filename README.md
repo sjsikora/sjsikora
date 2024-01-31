@@ -28,9 +28,7 @@ I am...
 - [Open-Beta: Reviving Map Feature](https://github.com/OpenBeta/open-tacos/pull/953)
 
 ## Languages:
-Proficient: Java, Python, R
-
-Working Understanding: React, Javascript
+Proficient: Java, Python, R, React, Javascript
 
 ## How to reach out:
 You can reach me through my email: sjsikora@student.ubc.ca
