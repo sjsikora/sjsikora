@@ -11,7 +11,7 @@ I am...
 
 📱 [**Telepole**](https://github.com/sjsikora/telepole): *React/Typescript* A full-stack website to track telephone poles in Seattle and Kelowna.
 
-🌳 **IDS Solar Bench**: I am the Director of Software Integration for UBCO's IDS (Innovate, Design, Sustain) Solar Bench Project. Specifically, my role in the Solar Bench project is to retrieve data from a microcontroller and display it on a website. This project is slated to be completed by May 2026. You can access my work and the work of my team at this [repository](https://github.com/IDS-Solar-Bench/backserver).
+🌳 [**IDS Solar Bench**](https://github.com/IDS-Solar-Bench/backserver): I am the Director of Software Integration for UBCO's IDS (Innovate, Design, Sustain) Solar Bench Project. Specifically, my role in the Solar Bench project is to retrieve data from a microcontroller and display it on a website. This project is slated to be completed by May 2026.
 
 ## What are some old projects?
 
