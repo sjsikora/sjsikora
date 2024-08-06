@@ -11,10 +11,10 @@ I am...
 
 📱 [**Telepole**](https://github.com/sjsikora/telepole): *React/Typescript* A full-stack website to track telephone poles in Seattle and Kelowna.
 
-🌳 [**IDS Solar Bench**](https://github.com/IDS-Solar-Bench/backserver): I am the Director of Software Integration for UBCO's IDS (Innovate, Design, Sustain) Solar Bench Project. Specifically, my role in the Solar Bench project is to retrieve data from a microcontroller and display it on a website. This project is slated to be completed by May 2026.
-
 ## What are some old projects?
 
+- 🍃 **Get Green Admin Console** For my Summer 2024 internship, I created a website to manage customer accounts.
+- 🌳 [**IDS Solar Bench**](https://github.com/IDS-Solar-Bench/backserver): I am the Director of Software Integration for UBCO's IDS (Innovate, Design, Sustain) Solar Bench Project. Specifically, my role in the Solar Bench project is to retrieve data from a microcontroller and display it on a website. My work is on the back burner while the physical bench gets approved and built.
 - 🛸 [**EarthLingo**](https://github.com/sjsikora/EarthLingo): *React/Typescript/Microsoft Azure AI* Pick or customize your sentence, and then read it aloud. EarthLingo will give you feedback on your overall pronunciation of the sentence, highlight any mispronounced words, and help you break down your worst pronunciation. Additionally, for every sentence you read, you are scored on individual phonics so you can understand your weak points.
 - 🦠 [**Label Transfer Algorithm**](https://github.com/sjsikora/bayesian-scRNAseq-label-transfer): *R* As part of my internship at the Trapnell Lab, I developed a pipeline to transfer cell labels from a reference to a query single-cell dataset accurately.
 - 📈 **Dash Data Visualization**: *Python* A website to view and interact with Variational Auto Encoder Double Knockout Data, Olympic Rowing Data, Supreme Court Data, and Genetically Engineered Crop Data.
