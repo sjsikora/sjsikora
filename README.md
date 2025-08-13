@@ -26,6 +26,7 @@ I am...
 
 - [Open-Beta: Handling 404 page error](https://github.com/OpenBeta/open-tacos/pull/947)
 - [Open-Beta: Reviving Map Feature](https://github.com/OpenBeta/open-tacos/pull/953)
+- [python-environments: Fixing Pip Package List Parse](https://github.com/microsoft/vscode-python-environments/pull/698)
 
 ## Languages:
 Proficient: Java, Python, R, React, Javascript
