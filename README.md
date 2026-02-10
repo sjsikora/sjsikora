@@ -5,7 +5,6 @@ I am...
 - currently an undergrad in computer science at UBC Okanagan.
 - bouncing between Seattle, Washington 🇺🇸 and Kelowna, British Columbia 🇨🇦
 - trying my hardest to learn Vim keybinds.
-- open to work!
   
 ## What am I working on now?
 
