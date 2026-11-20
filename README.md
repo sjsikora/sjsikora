@@ -2,13 +2,11 @@
 
 ## About me
 I am...
-- currently an undergrad in computer science at UBC Okanagan.
-- bouncing between Seattle, Washington 🇺🇸 and Kelowna, British Columbia 🇨🇦
-- trying my hardest to learn Vim keybinds.
+- SWE @ Microsoft
   
 ## What am I working on now?
 
-Currently focusing on schoolwork and applying to new-grad roles for the Summer of 2026!
+N/A
 
 ## What are some old projects?
 
@@ -35,4 +33,4 @@ Currently focusing on schoolwork and applying to new-grad roles for the Summer o
 Proficient: Java, Python, R, React, JavaScript, Microsoft Azure, Docker
 
 ## How to reach out:
-You can reach me through my email: sjsikora@student.ubc.ca
+You can reach me through my linked-in
